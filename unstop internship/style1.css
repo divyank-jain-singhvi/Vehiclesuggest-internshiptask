@@ -1,0 +1,42 @@
+.block-2{
+    background: url('./images/Rectangle 10.png');
+    padding: 5vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 5vh;
+}
+.block-2-head{
+    color: white;text-align: center;
+    font-size:1.8vw;
+}
+.block-2-head p{
+    font-size: 1.5vw;
+}
+.block-2-row{
+    max-width: 95%;
+    margin: auto;
+    margin-top: 3vw;
+    display: flex;
+    justify-content: space-evenly;
+}
+.container-block-2{
+    background: url('./images/Rectangle 5.png');
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: 37vh;
+}
+.container-block-2 div{
+    position: relative;
+    padding: 5vh;
+}
+.container-block-2 div h4{
+    margin-bottom: 4vh;
+}
+.container-block-2 div div{
+    margin-left: -5vh;
+    display: flex;
+}
+.container-block-2 div div a{
+    text-decoration: none;
+    color: #11AAA3;
+}

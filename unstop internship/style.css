@@ -1,0 +1,117 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.use-case{
+    max-width: 80%;
+    margin: auto;
+    font-size: 8vh;
+    margin-top: 4vw;
+    display: flex;
+    justify-content: space-between;
+}
+.use-case span{
+    font-weight: bold;
+}
+.head-button-use{
+    display: flex;
+    justify-content: space-between;
+
+}
+.head-button button{
+    border: none;
+    background-color: white;
+    font-size: 1.5vw;
+}
+.start-button button{
+    border-radius: 2vh;
+    width: 16vw;
+    height: 3.5vw;
+    background-color: #00847D;
+    font-size: 2.8vh;
+    font-weight: bold;
+    color: white;
+    border: none;
+}
+.first-page{
+    display: flex;
+    justify-content: space-between;
+    max-width: 90%;
+    margin-left: 10%;
+    margin-top: 4vw;
+}
+.first-page-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.first-page-head{
+    font-size: 2vw;
+}
+.first-page-head h1 span{
+    color: #00847D;
+}
+.first-page-description{
+    font-size: 2vw;
+    color: #7e7e7e; 
+    font-weight: bold;  
+}
+.first-page-description p span{
+    color: #00847D;
+}
+
+.first-page-whatsapp-button button{
+    border: none;
+    background: #00847D;
+    color: white;
+    width: 22vw;
+    height: 4vw;
+    border-radius: 5vh;
+    font-size: 1.8vw;
+    display: flex;
+    align-items: center;
+    padding: 4vh;
+}
+.first-page-whatsapp-button p{
+    font-size: 1.8vw;
+    margin-left: 2vw;
+    margin-top: 2vh;
+    color: #7e7e7e;
+    font-weight: bold;
+}
+.first-page-list ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.first-page-list ul li{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.first-page-list ul li a{
+    text-decoration: none;
+}
+.first-page-list ul li a span{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    padding: .8vh;
+    border-radius: 3vh;
+    background-color: #cdcdcd;
+}
+.vector-36-image img{
+    position: relative;
+}
+.vector-36-image{
+    width: 60vw;
+    height: 40vw;
+    text-align: center;
+    background: url('./images/Vector 37.png');
+    background-blend-mode: color-burn;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+

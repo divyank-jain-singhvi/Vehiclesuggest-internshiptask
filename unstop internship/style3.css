@@ -1,0 +1,59 @@
+.block-4-background{
+    background: url('./images/Rectangle 15.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    max-width: 90%;
+    margin: auto;
+}
+.block-4-containers{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    padding-top: 5vh;
+
+}
+.block-4-container-1{
+    background: url('./images/WriteEase Recieved 4.8/5 Stars in over 10,000+ Reviews.png');
+    width: 33.33%;
+    height: 75vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 25vh;
+    margin-left: 3vh;
+
+}
+.block-4-container-2{
+    background: url('./images/Group 2.png');
+    width: 33.33%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.block-4-container-3{
+    background: url('./images/Group 3.png');
+    width: 33.33%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.block-4-container-2 img{
+    position: relative;
+    top: 5vw;
+    left: 5.5vw;
+}
+/* .block-4-container-2 img:nth-child(2){
+    position: relative;
+    top:6vh;
+    left: 7vw;
+}
+.block-4-container-2 img:nth-child(3){
+    position: relative;
+    top:3vh;
+    left: 7vw;
+}
+.block-4-container-2 img:nth-child(4){
+    position: relative;
+    top:6vh;
+    left: 7vw;
+} */

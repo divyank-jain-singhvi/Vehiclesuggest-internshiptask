@@ -1,0 +1,141 @@
+.block-3{
+    max-width: 90%;
+    margin: auto;
+    margin-top: 5vh;
+    
+}
+.block-3-head{
+    text-align: center;
+    font-size: 3vh;
+}
+
+.block-3-head p{
+    font-size: 1.2vw;
+    color :#7e7e7e;
+}
+.block-3-container{
+    margin-top: 5vw;
+    display: flex;
+}
+.point-1{
+    background: url('./images/1..png');
+    width: 20vh;
+    height: 20vh;
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+    bottom: 4vh;
+    right: 2.5vh;
+    
+}
+.ellipse-36{
+    background: url('./images/Ellipse 36.png');
+    background-repeat: no-repeat;
+}
+.ellipse-37{
+    background: url('./images/Ellipse 37.png');
+    position: relative;
+    background-repeat: no-repeat;
+    top: 1vh;
+    right: 1vh;
+}
+.block-3-point-1{
+    display: flex;
+    margin-left: 3vh;
+    /* align-items: center; */
+    text-align: center;
+
+}
+.point-1-content p{
+    font-size: 4vh;
+    text-align: left;
+    margin-top: 2vh;
+}
+.line-3{
+    margin-left: 4vw;
+    margin-top: -2vw;
+}
+.point-2{
+    background: url('./images/2..png');
+    width: 20vh;
+    height: 20vh;
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+    bottom: 4vh;
+    right: 2.5vh;
+    
+}
+.ellipse-38{
+    background: url('./images/Ellipse 38.png');
+    background-repeat: no-repeat;
+}
+.ellipse-39{
+    background: url('./images/Ellipse 39.png');
+    position: relative;
+    background-repeat: no-repeat;
+    top: 1vh;
+    right: 1vh;
+}
+
+.point-3{
+    background: url('./images/3..png');
+    width: 20vh;
+    height: 20vh;
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+    bottom: 4vh;
+    right: 2.5vh;
+    
+}
+.ellipse-40{
+    background: url('./images/Ellipse 40.png');
+    background-repeat: no-repeat;
+}
+.ellipse-41{
+    background: url('./images/Ellipse 41.png');
+    position: relative;
+    background-repeat: no-repeat;
+    top: 1vh;
+    right: 1vh;
+}
+
+
+.point-4{
+    background: url('./images/4..png');
+    width: 20vh;
+    height: 20vh;
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+    bottom: 4vh;
+    right: 2.5vh;
+    
+}
+.ellipse-42{
+    background: url('./images/Ellipse 42.png');
+    background-repeat: no-repeat;
+}
+.ellipse-43{
+    background: url('./images/Ellipse 43.png');
+    position: relative;
+    background-repeat: no-repeat;
+    top: 1vh;
+    right: 1vh;
+}
+.block-3-container-2{
+    font-size: 2vw;   
+    margin-left: 8vw;
+}
+.block-3-container-2 p{
+    margin-bottom: 3vh;
+}
+.block-3-container-2 h1{
+    margin-bottom: 4vh;
+}
+.block-3-container-2 button{
+    margin-top: 3vh;
+    border: none;
+    background-color: white;
+}
